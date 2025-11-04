@@ -4,32 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fhav_09DJbC4DXaheyCh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="fhav_09DJbC4DXaheyCh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="60" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-8" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="fhav_09DJbC4DXaheyCh-8" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="540" y="60" width="420" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-9" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+        <mxCell id="fhav_09DJbC4DXaheyCh-9" value="" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;" parent="fhav_09DJbC4DXaheyCh-8" vertex="1">
           <mxGeometry width="210" height="171.9626168224299" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-10" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+        <mxCell id="fhav_09DJbC4DXaheyCh-10" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" parent="fhav_09DJbC4DXaheyCh-8" vertex="1">
           <mxGeometry x="130" y="8.6" width="69.5" height="141.4" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-12" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+        <mxCell id="fhav_09DJbC4DXaheyCh-12" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" parent="fhav_09DJbC4DXaheyCh-8" vertex="1">
           <mxGeometry x="210" y="8.600000000000001" width="69.5" height="141.4" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-11" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+        <mxCell id="fhav_09DJbC4DXaheyCh-11" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" parent="fhav_09DJbC4DXaheyCh-8" vertex="1">
           <mxGeometry x="50" y="8.599999999999994" width="69.5" height="141.4" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-15" value="" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+        <mxCell id="fhav_09DJbC4DXaheyCh-15" value="" style="whiteSpace=wrap;html=1;align=center;" parent="fhav_09DJbC4DXaheyCh-8" vertex="1">
           <mxGeometry x="139.75" y="160" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-16" value="" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+        <mxCell id="fhav_09DJbC4DXaheyCh-16" value="" style="whiteSpace=wrap;html=1;align=center;" parent="fhav_09DJbC4DXaheyCh-8" vertex="1">
           <mxGeometry x="219.75" y="160" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fhav_09DJbC4DXaheyCh-14" value="" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="70D-lGPjfAEHSzwlgve9-9" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+          <mxGeometry x="290" y="8.599999999999994" width="69.5" height="141.4" as="geometry" />
+        </mxCell>
+        <mxCell id="70D-lGPjfAEHSzwlgve9-10" value="" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="fhav_09DJbC4DXaheyCh-8">
+          <mxGeometry x="299.75" y="160" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fhav_09DJbC4DXaheyCh-14" value="" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="220" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="70D-lGPjfAEHSzwlgve9-11" value="Servidores con pool de hilos" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70D-lGPjfAEHSzwlgve9-12" value="Balanceador de carga&lt;div&gt;Ngnix/HAProxy&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
